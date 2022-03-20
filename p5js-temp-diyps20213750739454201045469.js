@@ -103,7 +103,7 @@ function newkeyChoice(toolChoice) { //toolchoice is the key that was pressed
   } else if (toolChoice == 'g' || toolChoice == 'G') { // g places the image we pre-loaded
     image(img3, mouseX, mouseY, 100, 100);
    
-     } else if (toolChoice == 'r' || toolChoice == 'G') { // g places the image we pre-loaded
+     } else if (toolChoice == 'c' || toolChoice == 'G') { // g places the image we pre-loaded
     image(img, mouseX, mouseY, 150, 200);
     
   }
